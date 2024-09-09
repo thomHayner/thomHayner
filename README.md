@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate on **Mobile Apps** / **AI**
 - 👨‍💻 My personal project portfolio is available at [https://github.com/thomHayner](https://github.com/thomHayner)
 - 💬 Ask me about **real time cross platform update syncing**
+- 📫 How to reach me: [**connect with me on LinkedIn**](https://www.linkedin.com/in/thomhayner/)
 - ⚡ Fun fact: **you can just call me Tom, that other spelling's email was available and I wanted consistency, so, yeah**
 
 <h3 align="left">Main Dev Stack:</h3>
