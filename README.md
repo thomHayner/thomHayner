@@ -115,6 +115,11 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
     </picture>
   </a>
+  <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer">
+    <picture>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="C#" width="40" height="40"/>
+    </picture>
+  </a>
 </p>
 
 <h3 align="left">Databases:</h3>
@@ -185,6 +190,11 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <picture>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+    </picture>
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
     </picture>
   </a>
 </p>
