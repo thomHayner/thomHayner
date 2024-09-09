@@ -21,6 +21,8 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/" target="_blank" rel="noreferrer">
     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="CSS 3" width="40" height="40"/>
     </picture>
   </a>
