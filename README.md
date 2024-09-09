@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Thom</h1>
+<h1 align="center">Hi there👋, I'm Thom, but you can just call me Tom to avoid any confusion</h1>
 <h3 align="center">A passionate web and mobile developer from Colorado</h3>
 
 <p align="left">
