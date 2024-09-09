@@ -100,6 +100,11 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
     </picture>
   </a>
+  <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer">
+    <picture>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
+    </picture>
+  </a>
   <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
     <picture>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg" alt="Axios HTTP" width="40" height="40"/>
@@ -117,7 +122,7 @@
   </a>
   <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer">
     <picture>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="C#" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
     </picture>
   </a>
 </p>
