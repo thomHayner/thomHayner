@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Thom, but you can just call me Tom to avoid any confusion</h1>
+<h1 align="center">Hi there👋, I'm Thom</h1>
 <h3 align="center">A passionate web and mobile developer from Colorado</h3>
 
 <p align="left">
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: thom.Hayner@gmail.com
 
-- ⚡ Fun fact: **One time I swam to Arizona**
+- ⚡ Fun fact: **you can just call me Tom, that other spelling's email was available and I wanted consistency, so, yeah**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
