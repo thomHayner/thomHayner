@@ -10,7 +10,7 @@
 - 👨‍💻 My personal project portfolio is available at [https://github.com/thomHayner](https://github.com/thomHayner)
 - 💬 Ask me about **real time cross platform update syncing**
 - 📫 How to reach me: [**connect with me on LinkedIn**](https://www.linkedin.com/in/thomhayner/)
-- ⚡ Fun fact: **you can just call me Tom, that other spelling's email was available and I wanted consistency, so, yeah**
+- ⚡ Fun fact: **you can just call me Tom...Thom is an email address that was available and I wanted consistency with my usernames, so, yeah**
 
 <h3 align="left">Main Dev Stack:</h3>
 <p align="left">
